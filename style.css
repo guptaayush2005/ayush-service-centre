@@ -342,3 +342,28 @@ header h1{
     font-size:18px;
     line-height:1.6;
 }
+.call-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:15px 30px;
+    background:#0d47a1;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+}
+.map{
+    padding:60px 20px;
+    background:white;
+    text-align:center;
+}
+
+.map h2{
+    margin-bottom:25px;
+    color:#0d47a1;
+}
+
+.map iframe{
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0.2);
+}
